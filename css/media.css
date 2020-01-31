@@ -1,0 +1,207 @@
+                /*cll*/
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*top header start*/
+.top-text {
+    margin-left: 18px;
+}
+.top-text a {
+    padding: 0px;
+    font-size: 12px;
+}
+.fb {
+    font-size: 16px;
+}
+/*top header start*/
+/*header start*/
+.wraper a img {
+    width: 140px;
+}
+.wraper button {
+    background-color: #424242;
+    font-size: 13px;
+}
+.dot {
+    display: none;
+}
+.wraper ul li {
+    margin-left: 0px;
+}
+/*header end*/
+
+/*banar text*/
+.banar-text {
+    margin-top: 60px;
+    margin-bottom: 67px;
+}
+/*approch start*/
+.stap {
+    margin-left: 93px;
+    margin-top: -100px;
+}
+.stap-2 {
+    margin-left: 91px;
+    margin-top: -96px;
+}
+.all_approch_text-right {
+    text-align: center;
+    margin-top: 52px;
+    width: auto;
+}
+.text-aporoch-left {
+    margin-left: 0;
+    margin-top: 62px;
+    text-align: center;
+
+}
+.approch-hed p {
+    font-size: 19px;
+    word-spacing: -1px;
+}
+.approch-hed h2 {
+    font-size: 45px;
+}
+.approch-hed {
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+/*approch end*/
+/*footer sstart*/
+.footer-wraper input {
+    width: 283px;
+}
+
+/*---------*/
+}/*coll-end*/
+/*---------*/
+
+                /*sm*/
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*top header start*/
+.top-text {
+    margin-left: 243px;
+}
+.top-text a {
+    padding: 0px;
+    font-size: 12px;
+}
+/*top header start*/
+/*header start*/
+.wraper a img {
+    width: 170px;
+}
+.wraper button {
+    background-color: #424242;
+     font-size: 16px;
+}
+.dot {
+    display: none;
+}
+.wraper ul li {
+    margin-left: 0px;
+}
+/*header end*/
+/*banar start*/
+.banar-text {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+/*banar start*/
+
+
+/*approch start*/
+figure img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+.stap-2 {
+    margin-left: 141px;
+    margin-top: -91px;
+}
+.all_approch_text-right {
+    margin-top: 52px;
+    width: 359px;
+    text-align: center;
+    margin-left: 74px;
+}
+.stap {
+    margin-left: 217px;
+     margin-top: -95px;
+}
+.text-aporoch-left {
+    margin-top: 41px;
+    text-align: center;
+    width: 359px;
+    margin-left: 86px;
+    margin-top: 55px;
+}
+/*---------*/
+}/*sm-end*/
+/*---------*/
+
+                /*md*/
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*top header start*/
+
+.top-text {
+    margin-left: 350px;
+}
+/*top header end*/
+/*heder stsrt*/
+.wraper a img {
+    width: 155px;
+}
+.wraper ul li {
+    margin-left: 0px;
+}
+.wraper ul li a {
+    font-size: 13px;
+}
+/*heder end*/
+/*---------*/
+}/*md-end*/
+/*---------*/
+                /*lg*/
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*top header start*/
+.top-text {
+    margin-left: 587px;
+}
+/*top header end*/
+/*heder stsrt*/
+.wraper ul li a {
+    font-size: 16px;
+}
+/*heder end*/
+
+/*---------*/
+}/*lg-end*/
+/*---------*/
+                /*xl*/
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+/*top header start*/
+.top-text {
+    margin-left: 747px;
+}
+/*top header end*/
+
+/*heder stsrt*/
+.ml-70{
+	margin-left: 130px;
+}
+.wraper ul li a {
+    color: black !important;
+    font-size: 20px;
+}
+/*heder end*/
+
+/*---------*/
+}/*xl-end*/
+/*---------*/

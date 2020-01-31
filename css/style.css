@@ -1,0 +1,260 @@
+/*top header start*/
+.top-header-wraper{
+	background-color: #eaeaea;
+}
+.top-text{}
+.top-text ul{
+	margin: 0;
+	padding-bottom: 3px;px;
+}
+.top-text li{}
+.top-text a{
+	padding: 5px;
+	font-size: 15px;
+	color: #454545;
+}
+.fb{
+	font-size: 20px;
+	color: #7498ea;
+}
+/*top header end*/
+/*header start*/
+
+.wraper{}
+.wraper a{}
+.wraper a img{}
+.wraper button{}
+.wraper ul{}
+.wraper ul li{
+	    margin-left: 10px
+}
+.wraper ul li a{
+	color: black !important;
+}
+.dot{
+	margin-top: -21px;
+    font-size: 40px;
+}
+.navButton{
+	 background-color: #dd2a24;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+/*header end*/
+/*banar starat*/
+.providing{
+	background-image: url(../imges/banar.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.banar-text{
+    margin-top: 135px;
+    margin-bottom: 155px;
+}
+.banar-text h1{}
+.banar-text p{}
+.banar-text button{}
+/*banar end*/
+
+/*about start*/
+.about-top-text{
+	margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-top-text h3{}
+.about-top-text p{}
+ hr{
+	width: 47px;
+    background: black;
+    height: 2px;
+}
+
+.about-text{
+    margin-bottom: 70px;
+}
+.about-text img{
+	height: 60px;
+    margin-bottom: 25px;
+}
+.about-text h4{}
+.about-text p{}
+/*about end*/
+/*approch start*/
+.approch-wraper{
+    background-color: #f3f3f3;
+    padding-bottom: 70px;
+}
+.approch-hed {
+    padding-top: 55px;
+    padding-bottom: 35px;
+}
+.approch-hed h2 {
+    font-weight: normal;
+}
+.approch-hed p {}
+
+/*single left*/
+.allaproch-left{
+    background-color: white;
+    margin-bottom: 40px;
+    box-shadow: 2px 1px 10px 3px #e4b3b3;
+}
+.allaproch-right{
+    background-color: white;
+    margin-bottom: 40px;
+    box-shadow: 2px 1px 10px 3px #e4b3b3;
+}
+.all_approch_text-left{}
+.stap{
+    background-color: red;
+    width: 90px;
+    height: 82px;
+    text-align: center;
+    margin-left: -81px;
+    border: solid 2px white;
+    margin-top: 16px;
+    position: absolute;
+}
+.stap span{
+    font-size: 32px;
+    font-weight: 700;
+}
+.stap p{}
+.text-aporoch-left{
+        margin-top: 41px;
+    margin-left: 40px;
+}
+.text-aporoch-left h4{}
+.text-aporoch-left p{}
+  
+
+  /*single right*/
+
+.allaproch-right-{
+    background-color: white;
+    margin-bottom: 40px;
+}
+.all_approch_text-right{
+    text-align: right;
+    margin-top: 52px;
+    width: 541px;
+}
+.stap-2{
+    background: red;
+    width: 90px;
+    height: 82px;
+    text-align: center;
+    margin-left: 592px;
+    position: absolute;
+    margin-top: 16px;
+    border: solid 2px white;
+}
+.stap-2 span{
+    font-weight: 800;
+    font-size: 33px;
+}
+.stap-2 p{}
+.text-aporoch-right{}
+.text-aporoch-right h4{}
+.text-aporoch-right p{}
+
+.approch-wraper img{
+	    max-width: 100%;
+}
+
+.imgtop{
+	    position: inherit;
+}
+
+/*approch end*/
+
+/*our work start*/
+.our-work-wraper{
+    background-color: #de2b24;
+        padding-bottom: 70px;
+}
+.our-work-text{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 18px;
+    color: white;
+}
+.our-work-gelary {
+    margin-left: 18px;
+}
+.our-work-text h2{}
+.our-work-text p{}
+
+/*contuct satart*/
+.analysis{ 
+    background-color: #1286bf;
+    padding-top: 90px;
+    padding-bottom: 90px; }
+.text-center{}
+.text-center h1{}
+.form_card .arrow{
+    position: absolute;
+    margin-top: -58px;
+    font-size: 102px;
+    color: white;
+    margin-left: -32px;
+}
+.card-wraper{
+    margin-top: 35px;
+}
+.cancel i{
+    margin-top: 7px;
+    color: white;
+}
+.cancel {
+    position: absolute;
+    right: -12px;
+    margin-top: -34px;
+    background: #fb0900;
+    width: 35px;
+    height: 35px;
+    border-radius: 52px;
+    border: 2px solid white;
+}
+/*footer start*/
+.footer-style{
+    background-color: #2a2a2a;
+}
+.footer-wraper{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.footer-wraper h2{
+    color: white;
+}
+.footer-wraper ul{}
+.footer-wraper li{
+    color: white;
+}
+.footer-wraper li a{
+        color: white;
+    /* width: 114px; */
+    border: 1px solid #515151;
+    padding: 3px 8px 3px 7px;
+    font-size: 18px;
+}
+.footer-wraper li i{}
+.footer-wraper p{
+    color: white;
+}
+.footer-wraper button{
+    color: white;
+    margin-top: 20px;
+}
+.footer-wraper input{
+    width: 357px;
+    background: #515151;
+    border: none;
+    padding: 6px;
+}
+.last-footer{ background-color: #515151;
+    padding: 15px;
+     }
